@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1231qasda",
+        "title": "Protectors of Tiamat",
+        "slug": "protectors_of_tiamat",
+        "heroImg": "protectors_of_tiamat.jpg",
+        "sections": [
+            {
+                "subTitle": "An Unexpected Duty",
+                "paragraph": "In the vast, chaotic expanse of the Nine Hells, a group of adventurers find themselves in the service of the fearsome dragon goddess, Tiamat. But instead of battling against her, they are tasked with protecting her from an imminent threat. As unexpected champions of one of the most feared beings in the multiverse, the adventurers must navigate a web of deceit and danger, forging unlikely alliances along the way."
+            },
+            {
+                "subTitle": "Twists and Turns",
+                "paragraph": "As they delve deeper into the Nine Hells, the adventurers uncover secrets that challenge their perceptions of good and evil. They must balance their mission with their own moral compass, facing choices that will test their loyalty and courage. The line between hero and villain blurs in this thrilling adventure."
+            },
+            {
+                "subTitle": "A World of Fire and Fury",
+                "paragraph": "Set against the backdrop of the fiery and treacherous Nine Hells, the campaign offers a unique twist on the classic hero's journey. With each step, the adventurers get closer to uncovering the true nature of the threat against Tiamat and their ultimate destiny in the infernal planes."
+            }
+        ],
+        "setting": "Nine Hells",
+        "releaseDate": "2023-11-05"
+    },
+    {
+        "id": "1231qagsfgsda",
+        "title": "Misfits of Waterdeep",
+        "slug": "misfits_of_waterdeep",
+        "heroImg": "misfits_of_waterdeep.jpg",
+        "sections": [
+            {
+                "subTitle": "Not Your Average Heroes",
+                "paragraph": "In the bustling city of Waterdeep, a motley crew of unlikely adventurers comes together. Instead of seeking glory and fame, they find themselves wrapped up in the city's underbelly, working for a mysterious patron with questionable motives. Their mission? To maintain the delicate balance of power among Waterdeep's most dangerous factions."
+            },
+            {
+                "subTitle": "Comedy and Chaos",
+                "paragraph": "The Misfits stumble through a series of misadventures, their bumbling antics often leading to unintended consequences. But through their chaotic endeavors, they manage to forge bonds of friendship and uncover deeper plots threatening the city's safety."
+            },
+            {
+                "subTitle": "A City of Wonders",
+                "paragraph": "Waterdeep, the City of Splendors, provides a rich and vibrant setting filled with intrigue, magic, and danger. The adventurers explore its many layers, from the noble estates to the shadowy docks, uncovering secrets that challenge their perceptions and push them to grow beyond their roles as mere misfits."
+            }
+        ],
+        "setting": "Waterdeep",
+        "releaseDate": "2024-01-15"
+    },
+    {
+        "id": "7890qwertyuio",
+        "title": "The Goblin Orchestra",
+        "slug": "goblin_orchestra",
+        "heroImg": "goblin_orchestra.jpg",
+        "sections": [
+            {
+                "subTitle": "Unlikely Maestros",
+                "paragraph": "In the remote village of Gloomwood, a group of goblins discovers an ancient cache of magical musical instruments. Instead of using them for chaos and destruction, they find an unexpected passion for music. Their mission? To form an orchestra and perform at the prestigious Grand Festival of Harmony."
+            },
+            {
+                "subTitle": "Musical Mishaps",
+                "paragraph": "The goblins, untrained and prone to mischief, face a series of comical challenges as they try to master their instruments. From accidentally summoning spirits with their music to dealing with rival bands who sabotage their efforts, the goblins' journey is filled with laughter and unexpected heroics."
+            },
+            {
+                "subTitle": "A Symphony of Adventure",
+                "paragraph": "Gloomwood and its surroundings become the backdrop for the goblins' quest. They travel through enchanted forests, ancient ruins, and bustling markets, encountering magical creatures and uncovering secrets about the instruments they wield. Each performance brings them closer to their ultimate goal, as they learn the true power of music and unity."
+            }
+        ],
+        "setting": "Gloomwood",
+        "releaseDate": "2024-06-30"
+    },
+    {
+        "id": "4567lkjsdf832",
+        "title": "Kobold Crisis",
+        "slug": "kobold_crisis",
+        "heroImg": "kobold_crisis.jpg",
+        "sections": [
+            {
+                "subTitle": "A Crisis of Identity",
+                "paragraph": "In the quiet outskirts of the bustling city of Baldur's Gate, a group of kobolds finds themselves at a crossroads. Disillusioned with their traditional way of life, they seek a new purpose. However, their lack of direction leads to them wandering into random places, causing confusion and concern among the local inhabitants."
+            },
+            {
+                "subTitle": "The Adventurers' Dilemma",
+                "paragraph": "The adventurers are tasked with addressing the kobold crisis. What starts as a seemingly simple mission quickly turns complicated as they discover the depth of the kobolds' existential angst. The kobolds, eager to find new roles in life, unintentionally disrupt various communities, from farming villages to merchant caravans."
+            },
+            {
+                "subTitle": "Finding a New Path",
+                "paragraph": "Through a series of humorous and heartfelt encounters, the adventurers must help the kobolds discover a new place for themselves in the world. This journey takes them from the dark corners of ancient ruins to the heights of city councils, challenging the adventurers to balance empathy with practicality as they guide the kobolds toward a new identity."
+            }
+        ],
+        "setting": "Baldur's Gate and Surrounding Areas",
+        "releaseDate": "2024-06-30"
+    }
+]

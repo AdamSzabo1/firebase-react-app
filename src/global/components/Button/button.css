@@ -1,0 +1,14 @@
+
+.quadratic-button {
+    padding: .5rem 1rem;
+    border: 1px solid black;
+    border-radius: .5rem;
+
+    font-size: larger;
+    cursor: pointer;
+    background-color: hsl(174, 100%, 78%);
+}
+
+.quadratic-button:hover {
+    background-color: hsl(174, 100%, 68%);
+}
