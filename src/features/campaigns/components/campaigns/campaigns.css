@@ -1,0 +1,9 @@
+
+.campaigns-area {
+    display: grid;
+    grid-template-columns: 300px auto;
+    gap: 1rem;
+
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}

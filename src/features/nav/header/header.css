@@ -1,0 +1,28 @@
+
+.app-header {
+    background-color: var(--primary-color);
+}
+
+.app-header nav ul {
+    display: flex;
+    flex-direction: row;
+
+    padding: 0;
+    margin: 0;
+
+    list-style-type: none;
+}
+
+.app-header nav ul a {
+    display: block;
+
+    padding: .5rem 1rem;
+    
+    color: black;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.app-header nav ul a:hover {
+    background-color: hsl( var(--primary-color-hs), 60%);
+}

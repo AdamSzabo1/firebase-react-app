@@ -1,0 +1,17 @@
+
+.default-layout {
+    display: grid;
+    grid-template-rows: min-content auto min-content;
+
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.default-layout .app-footer {
+    background-color: rgb(16, 16, 16);
+    color: white;
+}
+
+.default-layout .app-footer div {
+    padding: 1rem;
+}
