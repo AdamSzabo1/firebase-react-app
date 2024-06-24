@@ -13,10 +13,14 @@ body {
 }
 
 .container {
-    max-width: 980px;
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-area {
     min-height: 400px;
     padding: 1rem;
-    margin: 2rem auto;
 
     background-color: white;
 }
